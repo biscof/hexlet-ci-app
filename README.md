@@ -1,3 +1,6 @@
+## CI testing
+![example workflow](https://github.com/biscof/hexlet-ci-app/blob/main/.github/workflows/project-test.yml/badge.svg)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
