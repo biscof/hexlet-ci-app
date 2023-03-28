@@ -1,5 +1,5 @@
 ## CI testing
-![Actions Status](https://github.com/biscof/hexlet-ci-app/workflows/project-test.yml/badge.svg)
+[![Actions Status](https://github.com/biscof/hexlet-ci-app/workflows/project-test/badge.svg)](https://github.com/biscof/hexlet-ci-app/actions)
 
 # Example app for CI Hexlet course
 
